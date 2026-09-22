@@ -1,37 +1,27 @@
 # DRH - Cloud Studio
 
-**Status: Planned / public roadmap**
-
 Planned environment tools for cinematic skies, soft volumes, atmospheric depth, and scene-building workflows.
 
-This repository reserves the public support and documentation location for **DRH - Cloud Studio** in the DRH Blender Tools ecosystem by **Paco Salas | DRH**.
+| Status | Distribution |
+|---|---|
+| Planned | No public installable release |
 
-## What is public now
+## Repository scope
 
-- product direction and status
-- a stable place for future documentation, support, feedback, and release notes
-- an Issues/Discussions destination once public testing becomes useful
+This repository reserves the public documentation and support location for DRH - Cloud Studio. Product direction and status may be published here before a release; installable packages are not.
 
-## Distribution
+When an official release is available, distribution is expected through [BlendKit](https://www.blendkit.com/?query=author_id:205846). GitHub remains the documentation and support layer unless that model changes.
 
-There is **no public installable release here yet**.
+## Feedback
 
-When an official release becomes available, the installable package will be distributed through **BlendKit**. GitHub will remain the support/documentation layer unless the publication model is explicitly changed.
+Use [GitHub Issues](https://github.com/pacosalasv/DRH_Cloud_Studio-Support/issues) for focused product or workflow feedback. Do not post credentials, private files, confidential project information, or unpublished client material.
 
-**Do not download or install source/packages from this repository as a product release.**
-
-## Current status
-
-Development is not being represented as released or marketplace-ready. Public details will be expanded only when they are useful and safe to publish.
+## Related links
 
 - [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
 - [Paco Salas | DRH on BlendKit](https://www.blendkit.com/?query=author_id:205846)
 - [Support DRH development on Ko-fi](https://ko-fi.com/pacosalasv)
 
-## Feedback
-
-Use GitHub Issues for concise product/workflow feedback. Please do not submit confidential project information, private files, credentials, or unpublished client material.
-
 ---
 
-Authored by **Paco Salas | DRH**.
+Authored by Paco Salas | DRH.
