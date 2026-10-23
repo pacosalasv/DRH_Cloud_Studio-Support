@@ -1,0 +1,16 @@
+{
+  "description": "Public roadmap and future support location for DRH - Cloud Studio. No installable release is hosted here.",
+  "homepage": "https://github.com/pacosalasv/DRH_Addons_Hub",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "clouds",
+    "volumetrics",
+    "environment-art",
+    "technical-support",
+    "drh"
+  ]
+}
